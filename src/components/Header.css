@@ -1,0 +1,38 @@
+.header {
+    background-size: cover;
+    background-position: center;
+    padding: 60px 0;
+    color: white;
+    text-align: left;
+  }
+  
+  .header h2 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+  }
+  
+  .header p {
+    font-size: 1.25rem;
+    margin-bottom: 20px;
+  }
+  
+  .button-group {
+    display: flex;
+    gap: 10px;
+  }
+  
+  .stats {
+    display: flex;
+    gap: 30px;
+    margin-top: 30px;
+  }
+  
+  .stats h3 {
+    font-size: 1.5rem;
+    margin-bottom: 5px;
+  }
+  
+  .stats p {
+    font-size: 1rem;
+  }
+  

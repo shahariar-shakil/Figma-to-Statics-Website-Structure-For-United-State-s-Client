@@ -1,0 +1,29 @@
+.features-page {
+    padding: 40px 0;
+  }
+  
+  .features-page h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  .features-page p {
+    font-size: 1.25rem;
+    margin-bottom: 40px;
+  }
+  
+  .features-page .modern-look h3, .features-page .modern-look h4 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .features-page .modern-look .highlight {
+    color: #ff5733; /* Different color for Homework span */
+  }
+  
+  .features-page img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px;
+  }
+  

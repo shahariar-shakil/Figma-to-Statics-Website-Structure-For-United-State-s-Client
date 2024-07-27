@@ -1,0 +1,54 @@
+.pricing-page {
+  padding: 40px 0;
+}
+
+.pricing-page h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.pricing-page p {
+  font-size: 1.25rem;
+  margin-bottom: 40px;
+}
+
+.card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+
+.card-title {
+  font-size: 1.75rem;
+  margin-bottom: 20px;
+}
+
+.card-text {
+  font-size: 1.25rem;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+ul li {
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+ul li .fa-check {
+  color: green;
+  margin-right: 10px;
+}
+
+button {
+  background-color: green;
+  border-color: green;
+  color: white;
+}
+
+.icon-spacing {
+  margin-right: 0.5rem;
+}
